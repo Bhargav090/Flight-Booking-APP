@@ -1,16 +1,9 @@
 # jmrinfotech
 
-A new Flutter project.
+Flight Booking App.
 
-## Getting Started
+## APK Download
 
-This project is a starting point for a Flutter application.
+You can download and install the app on your device from the following link:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Download APK]([https://drive.google.com/file/d/1RtmZXEm7g17iJYUovOUUFbahhzljIiqG/view?usp=sharing](https://drive.google.com/file/d/1BDY8gge_g2W-pUeoX-sVONTxFBFD4Qaw/view?usp=sharing))
